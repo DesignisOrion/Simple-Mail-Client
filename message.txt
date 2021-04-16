@@ -1,0 +1,5 @@
+Greetings,
+
+This is mail sent with python.
+
+Follow me online at : www.DesignIsOrion.com
